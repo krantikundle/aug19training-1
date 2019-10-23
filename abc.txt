@@ -4,6 +4,7 @@ added third line to abc.txt
 Added second line to abc.txt
 <<<<<<< HEAD
 abc
+kranti
 def
 =======
 Added line to check reset to server

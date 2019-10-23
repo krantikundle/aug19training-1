@@ -5,7 +5,7 @@ Added second line to abc.txt
 <<<<<<< HEAD
 abc
 kranti
-def
+defsd
 =======
 Added line to check reset to server
 >>>>>>> parent of 7e29e55... Revert "This commit to be removed From server"
